@@ -1,5 +1,5 @@
 body {
-  /* background-color: rgb(205, 119, 119); */
+
   background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)),url("bg001.jpg");
   font-family: "Poppins", sans-serif;
   background-repeat: no-repeat;
@@ -13,9 +13,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  /* background-image: url(bg2.png); */
-  /* background-repeat: no-repeat; */
-  /* background-size: cover; */
+ 
 }
 .section1,
 .section2 {
